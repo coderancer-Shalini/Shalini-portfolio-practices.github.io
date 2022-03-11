@@ -155,3 +155,13 @@ hr {
   color: white;
   font-weight: bold;
 }
+.form-submit-button {
+background: #FC4F4F;
+color: white;
+border-style: outset;
+border-color: #FC4F4F;
+height: 50px;
+width: 100px;
+font: bold15px arial,sans-serif;
+text-shadow: none;
+}
